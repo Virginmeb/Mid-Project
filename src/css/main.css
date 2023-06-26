@@ -1,0 +1,35 @@
+.my-Bg{
+  background-image: url('../assets/images/background-img.jpg');
+  background-size: cover;
+  padding: 100px;
+}
+
+.myName{
+    color:white;
+}
+
+.my-job{
+    color:white;
+}
+
+small{
+    color: white;
+}
+
+.my-description{
+    color:white;
+}
+ 
+.my-title{
+    margin-top: 100px;
+}
+
+.my-gt{
+    background-image: url('../assets/images/background-img.jpg');
+    background-size: cover;
+    padding:30px;
+}
+
+.my-gt h3{
+    color: white;
+}
